@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/somesh-bhandare-a561201a1/**
+- 📫 How to reach me **https://www.linkedin.com/in/someshbhandare/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

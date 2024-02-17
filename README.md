@@ -1,4 +1,4 @@
-## Hey, [Somesh ](www.linkedin.com/in/someshbhandare)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
+## Hey, [Somesh ](https://www.linkedin.com/in/someshbhandare)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
 
 <p align="">
     <a href="https://github.com/someshbhandare/github-readme-streak-stats">
